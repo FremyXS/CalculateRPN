@@ -1,0 +1,16 @@
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.exe
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.deps.json
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.runtimeconfig.json
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.runtimeconfig.dev.json
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.dll
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Console.pdb
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.AssemblyInfoInputs.cache
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.AssemblyInfo.cs
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.csproj.CoreCompileInputs.cache
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.dll
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.pdb
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.genruntimeconfig.cache
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Logic.dll
+D:\proga\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.Logic.pdb
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.csprojAssemblyReference.cache
+D:\proga\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.Console.csproj.CopyComplete
